@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Website is under maintance.
+          Website is under maintanance.
         </p>
       </main>
     </div>
